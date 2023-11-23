@@ -1,0 +1,104 @@
+$date
+	Fri Nov 24 00:07:52 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module pipomod_32bit_tb $end
+$var wire 32 ! po [31:0] $end
+$var reg 1 " clear $end
+$var reg 1 # clk $end
+$var reg 32 $ pi [31:0] $end
+$scope module uut $end
+$var wire 1 % clear $end
+$var wire 1 & clk $end
+$var wire 32 ' pi [31:0] $end
+$var reg 32 ( po [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx (
+b0 '
+0&
+0%
+b0 $
+0#
+0"
+bx !
+$end
+#5
+b0 (
+b0 !
+1"
+1%
+1#
+1&
+#10
+0"
+0%
+0#
+0&
+#15
+b0 (
+1#
+1&
+#20
+0#
+0&
+b1001 $
+b1001 '
+#25
+b10010 (
+b10010 !
+1#
+1&
+#30
+0#
+0&
+b1010 $
+b1010 '
+#35
+b10100 (
+b10100 !
+1#
+1&
+#40
+0#
+0&
+b1011 $
+b1011 '
+#45
+b10110 (
+b10110 !
+1#
+1&
+#50
+0#
+0&
+b1110 $
+b1110 '
+#55
+b11100 (
+b11100 !
+1#
+1&
+#60
+0#
+0&
+b1111 $
+b1111 '
+#65
+b11110 (
+b11110 !
+1#
+1&
+#70
+0#
+0&
+b0 $
+b0 '
